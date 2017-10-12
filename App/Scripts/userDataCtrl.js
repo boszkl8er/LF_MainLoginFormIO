@@ -2,5 +2,4 @@
 angular.module('catApp')
 .controller('userDataCtrl', ['$scope', 'adalAuthenticationService', function ($scope, adalService) {
 
-
 }]);
